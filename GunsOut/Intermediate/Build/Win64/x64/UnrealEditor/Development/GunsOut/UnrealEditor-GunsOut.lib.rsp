@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GunsOut.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects Unreal\GunsOut\Intermediate\Build\Win64\x64\GunsOutEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Projects Unreal\GunsOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunsOut\GunsOut.cpp.obj"
+"D:\Projects Unreal\GunsOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunsOut\Default.rc2.res"
+/OUT:"D:\Projects Unreal\GunsOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunsOut\UnrealEditor-GunsOut.lib"

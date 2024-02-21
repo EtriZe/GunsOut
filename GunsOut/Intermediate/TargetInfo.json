@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GunsOut",
+			"Path": "..\\Source\\GunsOut.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GunsOutEditor",
+			"Path": "..\\Source\\GunsOutEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

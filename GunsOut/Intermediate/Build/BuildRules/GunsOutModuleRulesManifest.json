@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects Unreal\\GunsOut\\Source\\GunsOut\\GunsOut.Build.cs",
+		"D:\\Projects Unreal\\GunsOut\\Source\\GunsOut.Target.cs",
+		"D:\\Projects Unreal\\GunsOut\\Source\\GunsOutEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
