@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\projects unreal\\gunsout\\source\\gunsout\\gunsout.cpp",
+        "Source": "d:\\projet ue\\gunsout\\gunsout\\source\\gunsout\\gunsout.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\projects unreal\\gunsout\\intermediate\\build\\win64\\x64\\gunsouteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "d:\\projet ue\\gunsout\\gunsout\\intermediate\\build\\win64\\x64\\gunsouteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "d:\\projects unreal\\gunsout\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gunsout\\definitions.gunsout.h",
-            "d:\\projects unreal\\gunsout\\source\\gunsout\\gunsout.h"
+            "d:\\projet ue\\gunsout\\gunsout\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gunsout\\definitions.gunsout.h",
+            "d:\\projet ue\\gunsout\\gunsout\\source\\gunsout\\gunsout.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
